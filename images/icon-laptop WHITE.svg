@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<g id="iMac_Computer">
+	<g id="Support_Group_1_">
+		<path id="Base_Line_1_1_" class="st0" d="M126.1,149.3h-51V147c0-1.1,0.9-2,2-2h47c1.1,0,2,0.9,2,2V149.3L126.1,149.3z"/>
+		<path id="L_Support_1_" class="st0" d="M81.2,144.9c5.3,0,8.2-4.2,8.2-8.2c0-1.4,0-4.1,0-4.1"/>
+		<path id="R_Support_1_" class="st0" d="M119.9,144.9c-5.3,0-8.2-4.2-8.2-8.2c0-1.4,0-4.1,0-4.1"/>
+	</g>
+	<path id="Monitor_2_" class="st0" d="M153,128.8c0,2.1-1.7,3.8-3.8,3.8H52c-2.1,0-3.8-1.7-3.8-3.8V61.7c0-2.1,1.7-3.8,3.8-3.8h97.2
+		c2.1,0,3.8,1.7,3.8,3.8V128.8z"/>
+	<path id="Circle" class="st0" d="M103.3,125.2c0,1.5-1.2,2.7-2.7,2.7s-2.7-1.2-2.7-2.7s1.2-2.7,2.7-2.7
+		C102.1,122.5,103.3,123.7,103.3,125.2z"/>
+	<line id="Line" class="st0" x1="48.1" y1="117.8" x2="153" y2="117.8"/>
+	<path id="Screen_1_" class="st0" d="M52.8,64.6c0-0.9,0.7-1.6,1.6-1.6h92.3c0.9,0,1.6,0.7,1.6,1.6v47.3c0,0.9-0.7,1.6-1.6,1.6H54.4
+		c-0.9,0-1.6-0.7-1.6-1.6C52.8,111.9,52.8,64.6,52.8,64.6z"/>
+	<path id="Camera" class="st1" d="M101.4,60.7c0,0.5-0.3,0.8-0.8,0.8s-0.8-0.3-0.8-0.8s0.3-0.8,0.8-0.8
+		C101,59.9,101.4,60.3,101.4,60.7z"/>
+</g>
+<circle class="st1" cx="100" cy="100" r="75"/>
+</svg>
