@@ -377,7 +377,7 @@ Order: Base > Typography > General Layout > Grid
     padding-top: 1rem; }
 
 .learn {
-  background-image: url(/images/oura-about-us.jpg);
+  background-image: url(images/oura-about-us.jpg);
   background-size: cover;
   overflow: hidden;
   height: 100vh;
@@ -397,7 +397,7 @@ Order: Base > Typography > General Layout > Grid
       height: 100vh; } }
   @media (max-width: 48em) {
     .learn {
-      background-image: url(/images/about-us-ring-updated-tab.png);
+      background-image: url(images/about-us-ring-updated-tab.png);
       height: 100vh; } }
   @media (max-width: 30em) {
     .learn {
@@ -457,7 +457,7 @@ Order: Base > Typography > General Layout > Grid
           font-size: 1.25rem; } }
 
 .parallax {
-  background-image: url(/images/oura-woman-with-smartphone.jpg);
+  background-image: url(images/oura-woman-with-smartphone.jpg);
   background-size: cover;
   overflow: hidden;
   height: 100vh; }
@@ -469,7 +469,7 @@ Order: Base > Typography > General Layout > Grid
       height: 100vh; } }
   @media (max-width: 48em) {
     .parallax {
-      background-image: url(/images/oura-woman-with-smartphone-tablet.jpg);
+      background-image: url(images/oura-woman-with-smartphone-tablet.jpg);
       height: 100vh; } }
   @media (max-width: 30em) {
     .parallax {
