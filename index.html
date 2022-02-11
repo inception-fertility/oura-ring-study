@@ -13,12 +13,12 @@
  <header class="header">
         <div class="header--left">
             <picture>
-                <source media="(max-width: 48em)" srcset="images/inception-family-of-companies.jpg">
-                <img src="images/I_Logo__FOC_Long_Green.svg" alt="Logos of all of Inception Fertility's family of companies.">
+                <source media="(max-width: 63em)" srcset="/images/inception-family-of-companies.jpg">
+                <img src="/images/I_Logo__FOC_Long_Green.svg" alt="Logos of all of Inception Fertility's family of companies.">
             </picture>
         </div>
         <div class="header--right">
-            <img src="images/oura-logo.svg" alt="Oura Logo">
+            <img src="/images/oura-logo.svg" alt="Oura Logo">
         </div>
         
     </header> 
@@ -30,13 +30,13 @@
             <p class="intro--btn"><a href="#form">Sign Up</a></p>
         </div>
         <div class="intro--right">
-            <img src="images/oura-heritage-tilted-forward.png" alt="Oura ring tilted forward">
+            <img src="/images/oura-heritage-tilted-forward.png" alt="Oura ring tilted forward">
         </div>
     </section>
     <!-- Intro Mobile-->
     <section class="intro-mobile">
         <h1 class="intro__h1">Menstrual Cycle Digital Tracking Study</h1>
-        <img src="images/oura-heritage-tilted-forward.png" alt="Oura ring tilted forward">
+        <img src="/images/oura-heritage-tilted-forward.png" alt="Oura ring tilted forward">
         <p class="intro__text">Oura and Inception Fertility and its family of brands, including The Prelude Network™, are partnering in a research study to observe the physiological changes throughout the menstrual cycle using the Oura Ring. The Oura Ring is a wearable device that combines advanced sensor technology with an easy-to-use mobile app to deliver precise, personalized health insights to the user.</p>
         <p class="intro--btn"><a href="#form">Sign Up</a></p>
     </section>
@@ -59,24 +59,22 @@
 
     </section>
 
-    <section class="requirements">
+    <section class="requirements" id="clinic-tile">
         <div class="requirements--title"><h2>During the study participants will:</h2></div>
         <div class="requirements--daynight">
-            <img src="images/icon-smartapp WHITE.svg" width="150" alt="Icon of the sun and moon cycling in a smartphone">
+            <img src="/images/icon-smartapp WHITE.svg" width="150" alt="Icon of the sun and moon cycling in a smartphone">
             <p class="requirements__text">Wear the Oura Ring consistently and sync data daily via smartphone app</p>
         </div>
         <div class="requirements--kit">
-            <img src="images/icon-ovulation WHITE.svg" width="150" alt="Ovulation Predictor kit">
+            <img src="/images/icon-ovulation WHITE.svg" width="150" alt="Ovulation Predictor kit">
             <p class="requirements__text">Complete at-home monitoring with Ovulation Predictor Kit</p>
         </div>
         <div class="requirements--ultrasound">
-            <img src="images/icon-monitor WHITE.svg" width="150" alt="Monitor displaying ultrasound">
-            <p class="requirements__text">Complete transvaginal ultrasound monitoring at one of our participating clinics</p>
-            <div class="clinics">
-            </div>
+            <img src="/images/icon-monitor WHITE.svg" width="150" alt="Monitor displaying ultrasound">
+            <p class="requirements__text">Complete transvaginal ultrasound monitoring at one of our participating <u><a href="#popup-clinics">clinics</a></u></p>
         </div>
         <div class="requirements--information">
-            <img src="images/icon-history WHITE.svg" width="150" alt="An icon of a book">
+            <img src="/images/icon-history WHITE.svg" width="150" alt="An icon of a book">
             <p class="requirements__text">Provide information about your medical history, including sexual activity</p>
             <div class="clinics">
             </div>
@@ -91,19 +89,19 @@
         <div class="cta--left">
             <h2 class="cta__h2">Get started with our simple sign-up form</h2>
             <p class="cta__p">If you're interested in participating, please complete the online registration below and a Research Team Member will contact you within 3 business days.</p>
-            <p class="cta__bold">Study participants will receive an Oura Ring at no cost and will keep their Oura Ring after the study concludes.</p>
+            <p class="cta__bold">Study participants will receive a Gen2 Oura Ring at no cost and may keep their Gen2 Oura Ring after the study concludes.</p>
             <div class="cta--form-container" id="form">
                 <!-- form.123formbuilder.com script begins here --><script type="text/javascript" defer src="https://form.123formbuilder.com/embed/6046532.js" data-role="form" data-default-width="650px"></script><!-- form.123formbuilder.com script ends here -->
             </div>
         </div>
         <div class="cta--right">
-            <img src="images/oura-heritage-silver-rotated.png" alt="Oura ring rotated">
+            <img src="/images/oura-heritage-silver-rotated.png" alt="Oura ring rotated">
         </div>
 
     </section>
     <footer class="footer" id="footer">
         <div class="footer--logo">
-            <img src="images/I_Logo_Reverse.png" alt="Inception logo in white">
+            <img src="/images/I_Logo_Reverse.png" alt="Inception logo in white">
 
         </div>
         <div class="footer--description">
@@ -126,7 +124,7 @@
         <div class="popup__content">
 
             <a href="#footer" class="popup__close">&times</a>
-            <h1 class="intro__h1">Privacy Policy</h1>
+            <h2 class="popup__h2">Privacy Policy</h2>
             <div class="popup__text">
                 <p class="terms--text">Inception Fertility Holdings, LLC (<strong>“IFH, ”us”, “we”,</strong> or <strong>“our”</strong>) operates the <span class="terms--link">https://www.fertilitystudies.com/</span> website (the <strong>“Service”</strong>).</p>
                 <p class="terms--text">This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.</p>
@@ -181,10 +179,21 @@
         </div>
     </div>
 
+    <div class="popup" id="popup-clinics">
+        <div class="popup__content popup-clinic__content">
+            <a href="#clinic-tile" class="popup__close">&times</a>
+            <h2 class="popup__h2 clinic__h2">Participating Clinics</h2>
+            <div class="popup-clincs--text">
+                <strong>Pacific Fertility Center</strong><br> 55 Francisco St., #500, San Francisco, CA 94133
+            </div>
+
+        </div>
+    </div>
+
     <div class="popup" id="popup-terms">
         <div class="popup__content">
             <a href="#footer" class="popup__close">&times</a>
-            <h1 class="intro__h1">Website Terms of Use</h1>
+            <h2 class="popup__h2">Website Terms of Use</h2>
             <p class="terms-date">Last Modified: December 4, 2021</p>
             <div class="popup__text-terms">
                 <p class="terms--text">Last Modified: December 4, 2021</p>
