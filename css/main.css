@@ -319,7 +319,7 @@ Order: Base > Typography > General Layout > Grid
     @media (max-width: 48em) {
       .requirements .requirements--daynight {
         flex-wrap: wrap;
-        padding: 1rem 12rem;
+        padding: 1rem 5rem;
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--daynight {
@@ -362,7 +362,7 @@ Order: Base > Typography > General Layout > Grid
     @media (max-width: 48em) {
       .requirements .requirements--kit {
         flex-wrap: wrap;
-        padding: 1rem 12rem;
+        padding: 1rem 5rem;
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--kit {
@@ -405,7 +405,7 @@ Order: Base > Typography > General Layout > Grid
     @media (max-width: 48em) {
       .requirements .requirements--ultrasound {
         flex-wrap: wrap;
-        padding: 1rem 12rem;
+        padding: 1rem 5rem;
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--ultrasound {
@@ -450,7 +450,7 @@ Order: Base > Typography > General Layout > Grid
     @media (max-width: 48em) {
       .requirements .requirements--information {
         flex-wrap: wrap;
-        padding: 1rem 12rem;
+        padding: 1rem 5rem;
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--information {
