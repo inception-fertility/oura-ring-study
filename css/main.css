@@ -326,7 +326,7 @@ Order: Base > Typography > General Layout > Grid
         padding: 0 4rem;
         padding-top: 2rem;
         font-size: 1.25rem;
-        height: 25vh; } }
+        height: 30vh; } }
   .requirements .requirements--kit {
     background-color: #9483BD;
     display: flex;
@@ -369,7 +369,7 @@ Order: Base > Typography > General Layout > Grid
         padding: 0 4rem;
         padding-top: 2rem;
         font-size: 1.25rem;
-        height: 25vh; } }
+        height: 30vh; } }
   .requirements .requirements--ultrasound {
     background-color: #192C53;
     display: flex;
@@ -412,7 +412,7 @@ Order: Base > Typography > General Layout > Grid
         padding: 0 4rem;
         padding-top: 2rem;
         font-size: 1.25rem;
-        height: 25vh; } }
+        height: 30vh; } }
     .requirements .requirements--ultrasound a {
       color: white; }
   .requirements .requirements--information {
@@ -457,7 +457,7 @@ Order: Base > Typography > General Layout > Grid
         padding: 0 4rem;
         padding-top: 2rem;
         font-size: 1.25rem;
-        height: 25vh; } }
+        height: 30vh; } }
   .requirements .requirements__text {
     padding-top: 1rem; }
     @media (max-width: 30em) {
