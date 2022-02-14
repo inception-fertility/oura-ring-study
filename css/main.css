@@ -700,6 +700,9 @@ Order: Base > Typography > General Layout > Grid
       height: auto; } }
   .footer .footer--logo {
     margin-bottom: 2rem; }
+    @media (max-width: 30em) {
+      .footer .footer--logo {
+        margin-bottom: 1rem; } }
     .footer .footer--logo img {
       width: 15vw; }
       @media (max-width: 90.5em) {
@@ -707,7 +710,7 @@ Order: Base > Typography > General Layout > Grid
           width: 30vw; } }
       @media (max-width: 30em) {
         .footer .footer--logo img {
-          width: 45vw; } }
+          width: 35vw; } }
   .footer .footer--description {
     color: #FFFFFF;
     font-size: 0.875rem;
