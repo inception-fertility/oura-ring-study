@@ -249,7 +249,8 @@ Order: Base > Typography > General Layout > Grid
       width: 10vw; } }
   @media (max-width: 30em) {
     .requirements img {
-      width: 35vw; } }
+      width: 30vw;
+      padding-top: 0; } }
   .requirements .requirements--title {
     background-color: #E66250;
     grid-column-end: span 4;
@@ -323,8 +324,7 @@ Order: Base > Typography > General Layout > Grid
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--daynight {
-        padding: 0 4rem;
-        padding-top: 2rem;
+        padding: 2rem 4rem;
         font-size: 1.25rem;
         height: 30vh; } }
   .requirements .requirements--kit {
@@ -366,8 +366,7 @@ Order: Base > Typography > General Layout > Grid
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--kit {
-        padding: 0 4rem;
-        padding-top: 2rem;
+        padding: 2rem 4rem;
         font-size: 1.25rem;
         height: 30vh; } }
   .requirements .requirements--ultrasound {
@@ -409,8 +408,7 @@ Order: Base > Typography > General Layout > Grid
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--ultrasound {
-        padding: 0 4rem;
-        padding-top: 2rem;
+        padding: 2rem 4rem;
         font-size: 1.25rem;
         height: 30vh; } }
     .requirements .requirements--ultrasound a {
@@ -454,8 +452,7 @@ Order: Base > Typography > General Layout > Grid
         height: 45vh; } }
     @media (max-width: 30em) {
       .requirements .requirements--information {
-        padding: 0 4rem;
-        padding-top: 2rem;
+        padding: 2rem 4rem;
         font-size: 1.25rem;
         height: 30vh; } }
   .requirements .requirements__text {
