@@ -655,7 +655,7 @@ Order: Base > Typography > General Layout > Grid
           font-size: 1.1rem;
           line-height: 1.5rem; } }
     .cta .cta--left .cta--form-container {
-      margin-top: -2rem; }
+      margin-top: 3rem; }
   .cta .cta--right img {
     width: 68vw; }
     @media (min-width: 91em) {
