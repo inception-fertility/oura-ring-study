@@ -297,7 +297,7 @@ Order: Base > Typography > General Layout > Grid
     text-align: center;
     color: #FFFFFF;
     font-size: 1.25rem;
-    font-weight: 900; }
+    font-weight: lighter; }
     @media (min-width: 91em) {
       .requirements .requirements--daynight {
         font-size: 1.5rem;
@@ -339,7 +339,7 @@ Order: Base > Typography > General Layout > Grid
     text-align: center;
     color: #FFFFFF;
     font-size: 1.25rem;
-    font-weight: 900; }
+    font-weight: lighter; }
     @media (min-width: 91em) {
       .requirements .requirements--kit {
         font-size: 1.5rem;
@@ -381,7 +381,7 @@ Order: Base > Typography > General Layout > Grid
     text-align: center;
     color: #FFFFFF;
     font-size: 1.25rem;
-    font-weight: 900; }
+    font-weight: lighter; }
     @media (min-width: 91em) {
       .requirements .requirements--ultrasound {
         font-size: 1.5rem;
@@ -425,7 +425,7 @@ Order: Base > Typography > General Layout > Grid
     text-align: center;
     color: #FFFFFF;
     font-size: 1.25rem;
-    font-weight: 900; }
+    font-weight: lighter; }
     @media (min-width: 91em) {
       .requirements .requirements--information {
         font-size: 1.5rem;
