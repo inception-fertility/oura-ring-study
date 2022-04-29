@@ -662,14 +662,14 @@ Order: Base > Typography > General Layout > Grid
       .cta .cta--right img {
         width: 65vw;
         position: relative;
-        bottom: 14vh; } }
+        bottom: 5vh; } }
     @media (max-width: 90.5em) {
       .cta .cta--right img {
         position: relative;
-        bottom: 30vh; } }
+        bottom: 18vh; } }
     @media (max-width: 72em) {
       .cta .cta--right img {
-        bottom: 40vh; } }
+        bottom: 30vh; } }
     @media (max-width: 63em) {
       .cta .cta--right img {
         display: none; } }
